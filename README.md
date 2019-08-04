@@ -3,7 +3,7 @@
 
 ## Implementation Details
  - Backbone : ResNet101
- - Encoding head : ASPP (DeepLabv3+)
+ - Head : ASPP (DeepLabv3+)
 
 
 ## TODO
