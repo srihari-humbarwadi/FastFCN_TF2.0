@@ -1,6 +1,5 @@
 import tensorflow as tf
 from resnet import ResNet101
-print('TensorFlow', tf.__version__)
 
 
 def conv_block(tensor, num_filters, kernel_size, padding='same', strides=1, dilation_rate=1, w_init='he_normal'):
